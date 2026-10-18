@@ -1,0 +1,6 @@
+json
+   {
+     "ativo": true,
+     "versao_minima": "1.1",
+     "mensagem": "Essa é a versão atual."
+   }
